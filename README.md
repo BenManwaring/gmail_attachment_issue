@@ -1,7 +1,7 @@
 # GMail attachment issue
 When sending a piped file, Gmail closes the pipe and sends a corrupted file instead.
 
-# Example built APK
+## Example built APK
 [app-debug.apk](README/app-debug.apk)
 
 ## Steps to reproduce
