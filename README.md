@@ -2,7 +2,7 @@
 When sending a piped file, Gmail closes the pipe and sends a corrupted file instead.
 
 # Example built APK
-![app-debug.apk](README/app-debug.apk)
+[app-debug.apk](README/app-debug.apk)
 
 ## Steps to reproduce
 1. Install this app.
@@ -19,24 +19,24 @@ The email is send containing the image of the android robot
 The email successfully contains the image correctly.
 
 #### Example
-![From 63212521.png](README/From 63212521.png)
+![From 63212521.png](<README/From 63212521.png>)
 
 #### EML file
-![From 63212521.png](README/From 63212521.eml)
+[From 63212521.eml](<README/From 63212521.eml>)
 
 #### APK file
 *This APK should not be trusted, they are taken from 3rd party source so should not be used with secure Google accounts.*
-![com.google.android.gm_2022.04.03.445234996.Release-63212521.apk](README/com.google.android.gm_2022.04.03.445234996.Release-63212521.apk)
+[com.google.android.gm_2022.04.03.445234996.Release-63212521.apk](README/com.google.android.gm_2022.04.03.445234996.Release-63212521.apk)
 
 ### Using com.google.android.gm_2022.04.17.446880209.Release-63240686.apk or later version
 The email contains a corrupted file in place of the image.
 
 #### Example
-![From 63240686.png](README/From 63240686.png)
+![From 63240686.png](<README/From 63240686.png>)
 
 #### EML file
-![From 63240686.png](README/From 63240686.eml)
+[From 63240686.eml](<README/From 63240686.eml>)
 
 #### APK file
 *This APK should not be trusted, they are taken from 3rd party source so should not be used with secure Google accounts.*
-![com.google.android.gm_2022.04.17.446880209.Release-63240686.apk](README/com.google.android.gm_2022.04.17.446880209.Release-63240686.apk)
+[com.google.android.gm_2022.04.17.446880209.Release-63240686.apk](README/com.google.android.gm_2022.04.17.446880209.Release-63240686.apk)
