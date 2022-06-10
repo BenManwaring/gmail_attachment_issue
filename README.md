@@ -2,7 +2,8 @@
 When sending a piped file, Gmail closes the pipe and sends a corrupted file instead.
 
 ## Google issue tracker
-https://issuetracker.google.com/issues/235374656
+~https://issuetracker.google.com/issues/235374656~ - closed as advice was it was the wrong place for this issue
+https://issuetracker.google.com/issues/235489985
 
 ## Example built APK
 [app-debug.apk](README/app-debug.apk)
