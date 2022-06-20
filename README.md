@@ -15,6 +15,9 @@ https://issuetracker.google.com/issues/235489985
 4. Chose to use GMail to send the file if multiple apps available.
 5. Send the email containing the file.
 
+### Video
+[Video](README/video.mp4)
+
 ## Expected results
 The email is send containing the image of the android robot
 
